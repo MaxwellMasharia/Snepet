@@ -1,0 +1,8 @@
+{
+  "T": {
+    "prefix": "$.prefix",
+    "body": ["console.log(\"Testing the key binding 🌳🌳🌳\")"],
+    "description": "Trees"
+  }
+}
+
